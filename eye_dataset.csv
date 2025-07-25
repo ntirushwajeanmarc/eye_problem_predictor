@@ -1,4 +1,4 @@
-age,family_history,veg_per_week,smoking_status,diabetes,screen_time,corrective_lenses,uv_exposure,gender,physical_activity,socioeconomic_status,access_to_healthcare,eye_problem
+age,family_history,veg_per_week,smoking_status,diabetes,screen_time,corrective_lenses,uv_exposure,gender,physical_activity_in_hours,socioeconomic_status,access_to_healthcare,eye_problem
 56,1,2,1,0,4,0,7,0,6,0,0,1
 69,1,3,1,0,7,0,4,0,3,0,1,1
 46,0,12,0,1,3,1,5,1,8,1,0,1

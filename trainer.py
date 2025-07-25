@@ -38,7 +38,7 @@ new_record = pd.DataFrame([{
     'corrective_lenses': 0,
     'uv_exposure': 3,
     'gender': 1,
-    'physical_activity': 1,
+    'physical_activity_in_hours': 1,
     'socioeconomic_status': 1,
     'access_to_healthcare': 0
 }])
